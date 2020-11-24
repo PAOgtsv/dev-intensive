@@ -17,6 +17,7 @@ Dev-intensive. Learning hot to make Android apps
 ## ISSUES: simple
 ## ADDIT INFO: -
 ## STEPS: -
+### link to download - https://git-scm.com/
 
 
 # TASK 3. 
